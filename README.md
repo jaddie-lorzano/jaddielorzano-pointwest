@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaddielorzano-pointwest
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me through jaddielorzano@gmail.com
 
